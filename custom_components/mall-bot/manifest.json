@@ -1,0 +1,8 @@
+{
+  "domain": "tmall-bot",
+  "name": "Tmall Bot",
+  "documentation": "https://github.com/dikastudio/tmall-bot-x1",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@dikastudio"]
+}
